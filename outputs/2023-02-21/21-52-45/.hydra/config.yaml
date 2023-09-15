@@ -1,0 +1,11 @@
+m: 3
+'n': 3
+k: 3
+rollouts: 100
+mcts_alpha: 1
+num_games: 1
+x_strat: 1
+y_strat: 1
+verbose: true
+hydra/hydra_logging: none
+hydra/job_logging: none
